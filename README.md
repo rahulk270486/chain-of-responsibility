@@ -1,4 +1,4 @@
-# Composite Cache Example
+# Chain of Responsibility
 
 A **Spring Boot** application demonstrating flexible and configurable **chain of responsibility** design pattern in spring boot application with escalation matrix example.
 
